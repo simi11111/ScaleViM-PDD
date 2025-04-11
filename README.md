@@ -1,1 +1,1 @@
-The open source code is the original unorganized code, which is being accelerated. The code is based on EfficientViM, and we thank this excellent work, https://github.com/mlvlab/EfficientViM
+The open source code is the original unorganized code, and the more standardized code is being organized at an accelerated pace. Our work is based on EfficientViM. Thanks for this excellent work, https://github.com/mlvlab/EfficientViM
