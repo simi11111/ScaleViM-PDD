@@ -1,1 +1,1 @@
-More standardized code is being cleaned up quickly. Our work is based on EfficientViM. Thanks for this excellent work, https://github.com/mlvlab/EfficientViM
+Our code will be open source soon. We thank https://github.com/mlvlab/EfficientViM for this excellent work.
